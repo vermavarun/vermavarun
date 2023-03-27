@@ -39,7 +39,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)</td></tr>
 
-  <tr><td colspan="2"   border="0" align="center"><img src="https://user-images.githubusercontent.com/8264476/227970242-2e5e4e92-a18d-485b-b823-e6a3166675ff.gif" width="30%" /></td></tr>
+  <tr><td colspan="2"   border="0" align="center"><img src="https://user-images.githubusercontent.com/8264476/227970242-2e5e4e92-a18d-485b-b823-e6a3166675ff.gif" width="40%" /></td></tr>
 
   <tr><td colspan="2" align="center" ⚙️ &nbsp;GitHub Analytics</td></tr>
   
