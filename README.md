@@ -1,8 +1,5 @@
 <h3 align="center">A Software Solution Provider from India. Having extensive knowledge of Cloud | Web Solutions. Love to design Software solutions irrespective of technology.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vermavarun&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Imloul" /> </p>
-
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vermavarun&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Verma" /> </p>
 
 <br><br>
 
@@ -25,8 +22,7 @@
 <p align="left">
 <a href="https://github.com/vermavarun">
   <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vermavarun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vermavarun&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vermavarun&layout=compact&langs_count=20&theme=algolia"/>
 </a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=76872415)
