@@ -1,8 +1,14 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vermavarun&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Verma" /> </p>
+
 
 
   <table align="center" border="0">
+  <tr>
+  <td align="center" colspan="2">
+   👀 <img src="https://komarev.com/ghpvc/?username=vermavarun&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Verma" /> 👀
+    </td>
 
+  </tr>
+  
   <tr>
   <td colspan="2"><h3 align="center" style="font-family:comic sans">A Software Solution Provider from India. Having extensive knowledge of Cloud | Web Solutions 🚀. Love to design Software solutions irrespective of technology 🌟. </h3></td>
   </tr>
