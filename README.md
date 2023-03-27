@@ -4,6 +4,11 @@
 
 <br><br>
 
+  <a href="https://stackexchange.com/users/2966471/varun-verma"><img src="https://stackexchange.com/users/flair/2966471.png" width="208" height="58" alt="profile for Varun Verma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Varun Verma on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+      
+  
+  <br><br>
+  
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
