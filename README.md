@@ -52,5 +52,13 @@
 
   </td>
   </tr>
-  <tr><td colspan="2"> [![trophy](https://github-profile-trophy.vercel.app/?username=vermavarun)](https://github.com/ryo-ma/github-profile-trophy) </td></tr>
+  <tr><td colspan="2">
+    
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vermavarun&theme=onedark)](https://github.com/vermavarun/github-profile-trophy) 
+  
+  </td></tr>
+ 
  </table>
+
+
+
