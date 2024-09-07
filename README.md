@@ -42,6 +42,8 @@
   <tr><td colspan="2"   border="0" align="center"><img src="https://user-images.githubusercontent.com/8264476/227970242-2e5e4e92-a18d-485b-b823-e6a3166675ff.gif" width="40%" /></td></tr>
 
   <tr><td colspan="2" align="center" ⚙️ &nbsp;GitHub Analytics</td></tr>
+
+  
   
   <tr><td><img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vermavarun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </td>
@@ -50,4 +52,5 @@
 
   </td>
   </tr>
+  <tr><td colspan="2"> [![trophy](https://github-profile-trophy.vercel.app/?username=vermavarun)](https://github.com/ryo-ma/github-profile-trophy) </td></tr>
  </table>
