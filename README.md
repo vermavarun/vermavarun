@@ -98,7 +98,19 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vermavarun&theme=onedark)](https://github.com/vermavarun/github-profile-trophy) 
   
   </td></tr>
- 
+ <tr><td colspan="2">
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+ </td></tr>
  </table>
 
 
