@@ -93,11 +93,7 @@
 
   </td>
   </tr>
-  <tr><td colspan="2">
-    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vermavarun&theme=onedark)](https://github.com/vermavarun/github-profile-trophy) 
   
-  </td></tr>
  <tr><td colspan="2">
  <picture>
   <source
@@ -111,6 +107,11 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
  </td></tr>
+ <tr><td colspan="2">
+    
+  [![trophy](https://trophy.ryglcloud.net/?username=vermavarun&theme=dark)](https://github.com/vermavarun/) 
+  
+  </td></tr>
  </table>
 
 
