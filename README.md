@@ -1,5 +1,5 @@
 <h1 align="center">Varun Verma</h1>
-<h3 align="center">Senior Backend & Cloud Engineer</h3>
+<h3 align="center">Senior Lead Backend & Cloud Engineer</h3>
 
 <p align="center">
 Designing scalable systems • Cloud-native architectures • API-first platforms
